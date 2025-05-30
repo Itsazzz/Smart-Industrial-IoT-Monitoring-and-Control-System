@@ -124,7 +124,7 @@ This project successfully demonstrates a secure, scalable IoT-based smart monito
 ---
 
 ## 📷 Screenshots / Diagrams
-![Hardware kit](full_kit.jpg)
+![Hardware kit](fullkit.jpg)
 
 ---
 
