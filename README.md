@@ -124,7 +124,9 @@ This project successfully demonstrates a secure, scalable IoT-based smart monito
 ---
 
 ## 📷 Hardware kit / Screenshots
+> There are two sectors of hardware iot, both microcontrollers encrypts their data and stored in the same database. we also added remote control feature via web interface
 ![Hardware kit](fullkit.jpg)
+> Screenshot of the main program
 ![Screenshot](main.py.jpg)
 
 ---
