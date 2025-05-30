@@ -1,9 +1,0 @@
-## ⚙️ Working Principle
-
-The system comprises two microcontrollers, each responsible for monitoring different environmental parameters such as temperature, gas levels, and motion detection. These sensors continuously collect real-time data and transmit it to their respective microcontrollers.
-
-Each microcontroller encrypts the data using AES (Advanced Encryption Standard) before transmission to ensure secure communication. The encrypted data is then sent to a web server hosted on WAMP Server, where it is stored and displayed on a dashboard built using HTML, CSS, JavaScript, and PHP.
-
-Firebase is used for real-time database management and to trigger alerts whenever anomalies are detected (e.g., unauthorized access or threshold breaches). The system supports role-based access control, allowing only authenticated users to view or manage the data. This enhances security and prevents unauthorized tampering.
-
-Mutual authentication between the microcontrollers ensures that data is exchanged only between trusted nodes. The decentralized approach also improves reliability and scalability, making the system suitable for critical environments like industrial automation, healthcare, and smart infrastructure.
