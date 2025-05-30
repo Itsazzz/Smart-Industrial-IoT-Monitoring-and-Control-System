@@ -55,7 +55,7 @@ Traditional IoT systems often face challenges related to data privacy, unauthori
 
 ## 🔲 Block Diagram
 > The block diagram consists of sensors connected to microcontrollers, which encrypt and transmit data securely to the monitoring unit. Two microcontrollers work in parallel for redundancy and specialization.
-![Block diagram](block diagram.jpg).
+[Block Diagram](blockdiagram.jpg).
 ---
 
 ## 🔧 Circuit Diagram
