@@ -116,7 +116,7 @@ This project successfully demonstrates a secure, scalable IoT-based smart monito
 ---
 
 ## 📷 Screenshots / Diagrams
-> *(You can insert relevant block diagram, circuit diagram, and dashboard UI screenshots here)*
+![Block Diagram](block diagram.jpg)
 
 ---
 
