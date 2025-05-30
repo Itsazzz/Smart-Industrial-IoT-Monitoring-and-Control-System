@@ -137,6 +137,12 @@ This project successfully demonstrates a secure, scalable IoT-based smart monito
 
 ---
 
+---
+
+## 📚 More Details
+For more details, refer this 
+![Pdf](
+
 ## 📄 License
 This project is licensed under MIT. Feel free to modify and use with attribution.
 
