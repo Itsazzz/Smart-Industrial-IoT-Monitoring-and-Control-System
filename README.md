@@ -60,7 +60,7 @@ Traditional IoT systems often face challenges related to data privacy, unauthori
 
 ## 🔧 Circuit Diagram
 > A circuit involving sensors like temperature, gas, and motion modules connected to ESP32/Arduino boards, with encrypted transmission to cloud/Firebase through Wi-Fi modules.
-
+[Circuit Diagram](image.png)
 ---
 
 ## ⚙️ Working Principle
