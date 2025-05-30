@@ -89,7 +89,7 @@ Mutual authentication between the microcontrollers ensures that data is exchange
 - Real-time intrusion detection
 - Decentralized architecture increases reliability
 - Role-based access ensures only authorized usage
-- Flexible and scalable for multiple use cases
+- Email-based decryption key delivery
 
 ---
 
@@ -123,7 +123,7 @@ This project successfully demonstrates a secure, scalable IoT-based smart monito
 
 ---
 
-## 📷 Screenshots / Diagrams
+## 📷 Hardware kit
 ![Hardware kit](fullkit.jpg)
 
 ---
